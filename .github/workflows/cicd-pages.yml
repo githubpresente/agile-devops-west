@@ -50,7 +50,7 @@ jobs:
             const fs = require('fs')
             
             await github.paginate(github.rest.issues.listComments,
-              { owner: 'githubpresente', repo: 'agile-devops-days', issue_number: ${{ env.ISSUE_ID }} },
+              { owner: 'githubpresente', repo: 'agile-devops-west', issue_number: ${{ env.ISSUE_ID }} },
               (response) => response.data.map((issuecomment) => issuecomment.user.login)
             )
             .then((commenters) => {
