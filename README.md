@@ -5,7 +5,7 @@ Random Name Picker for GitHub prize draws!
 
 🚀 This site is deployed to GitHub Pages using GitHub Actions. The Actions workflow pulls entrants from commenters of a GitHub Issue
 
-🎫 If you want to enter the draw, please head to the issues tab and select issue [# 1](gh.io/github-win]
+🎫 If you want to enter the draw, please head to the issues tab and select issue [# 1](gh.io/github-win)
 
 🤞🏽 Leave a comment to enter
 
