@@ -1,13 +1,13 @@
 
-Random Name Picker for GitHub prize draws!
+![1](https://github.com/githubpresente/agile-devops-west/assets/20666190/3a9cccc1-2821-4d03-a0e5-1bc04d4ac0ee)
 
-🙏 First, huge shout-out to @icelam for a great and simple name picker we could fork and use for the GitHub booth!
-
-🚀 This site is deployed to GitHub Pages using GitHub Actions. The Actions workflow pulls entrants from commenters of a GitHub Issue
+## GitHub Raffle 
 
 🎫 If you want to enter the draw, please head to the issues tab and select issue [# 1](gh.io/github-win)
 
-🤞🏽 Leave a comment to enter
+🤞🏽 Leave a comment to enter ONLY in [# 1](gh.io/github-win)
+
+✨ Good luck!
 
 ---
 
