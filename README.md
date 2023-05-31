@@ -3,9 +3,11 @@ Random Name Picker for GitHub prize draws!
 
 🙏 First, huge shout-out to @icelam for a great and simple name picker we could fork and use for the GitHub booth!
 
-🚀 This site is deployed to GitHub Pages using GitHub Actions. The Actions workflow pulls entrants from commenters of a GitHub Issue.
+🚀 This site is deployed to GitHub Pages using GitHub Actions. The Actions workflow pulls entrants from commenters of a GitHub Issue
 
-🎫 if you want to enter the draw, please head to the issues tab and select issue #1. Leave a comment to enter.
+🎫 If you want to enter the draw, please head to the issues tab and select issue #1
+
+🤞🏽 Leave a comment to enter
 
 ---
 
