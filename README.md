@@ -1,5 +1,4 @@
-
-![1](https://github.com/githubpresente/agile-devops-west/assets/20666190/3a9cccc1-2821-4d03-a0e5-1bc04d4ac0ee)
+![httpsgh iogithub-win](https://github.com/githubpresente/agile-devops-west/assets/20666190/2df55f5d-5c65-40d2-a4d4-520eaf3bd22e)
 
 ## GitHub Raffle 
 
