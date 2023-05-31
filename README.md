@@ -1,15 +1,11 @@
 
-![Octogatos_onWhite_Full](https://github.com/githubpresente/selector-rifa/assets/20666190/f6c1c179-60e5-45fe-b63d-e5ad95628ae3)
+Random Name Picker for GitHub prize draws!
 
+🙏 First, huge shout-out to @icelam for a great and simple name picker we could fork and use for the GitHub booth!
 
-Selector aleatorio de nombres para sorteos en GitHub
-:pray: En primer lugar, queremos dar un enorme reconocimiento a @icelam por proporcionarnos un excelente y sencillo selector de nombres que pudimos bifurcar y utilizar para el stand de GitHub.
+🚀 This site is deployed to GitHub Pages using GitHub Actions. The Actions workflow pulls entrants from commenters of a GitHub Issue.
 
-:rocket: Este sitio está desplegado en GitHub Pages utilizando GitHub Actions. El flujo de trabajo de Actions recopila a los participantes de los comentarios en un Issue de GitHub.
-
-:ticket: Para participar en el sorteo agrega un comentario en este [Issue](https://github.com/githubpresente/random-name-picker/issues/1)
-
-A continuación se muestra el README original:
+🎫 if you want to enter the draw, please head to the issues tab and select issue. Leave a comment to enter.
 
 ---
 
